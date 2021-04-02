@@ -12,5 +12,5 @@ We can assume that larger quarterbacks both in height and weight are more durabl
 ### Alternate Hypothesis: Touchdowns thrown of tall and short quarterbacks are the same
 
 ## Conclusion:
-T-Test returned a P value of 0.7761015 or a value greater than any alpha. Meaning we would fail to rejust the null meaning Touchdowns thrown of tall and short NFL quarterbacks are the same. 
+T-Test returned a P value of 0.7761015 or a value greater than any alpha. Meaning we would fail to reject the null, so in this case Touchdowns thrown of tall and short NFL quarterbacks are the same. 
 This test is very limited to expand one could take data from over a larger range of years. Also one could argue that TDs thrown is not the only metric determine a successful QB so looking at other metrics like completion percentage or games won could be done in the future. 
